@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/create-react-a.git/static/css/main.073c9b0a.css",
+    "main.js": "/create-react-a.git/static/js/main.fb01ed5a.js",
+    "static/js/787.d3befce1.chunk.js": "/create-react-a.git/static/js/787.d3befce1.chunk.js",
+    "index.html": "/create-react-a.git/index.html",
+    "main.073c9b0a.css.map": "/create-react-a.git/static/css/main.073c9b0a.css.map",
+    "main.fb01ed5a.js.map": "/create-react-a.git/static/js/main.fb01ed5a.js.map",
+    "787.d3befce1.chunk.js.map": "/create-react-a.git/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.fb01ed5a.js"
+  ]
+}
